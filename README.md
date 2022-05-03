@@ -9,10 +9,10 @@ Created to make reminder for tasks that have to be done throughout the day easil
 * The save task will keep the task saved to local storage.
 
 ## Website
-
+ https://nardiss.github.io/Work-Day-Scheduler/
 
 ## Screenshot
-
+![Screenshot](/assets/img/Screenshot.png)
 
 # Contribution
 
